@@ -1,1 +1,2 @@
-# PS2_controller
+PS2 Controller extension for MakeCode 
+
